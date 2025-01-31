@@ -1,0 +1,13 @@
+We are f250liftkits.com, we are the top resource on the internet for everything F250 related.
+
+We give you relevant information describing lift kits.
+
+We also show and sell lift kits.
+
+We provide videos, tutorials, informational content.
+
+We also show and highlight the nicest looking f250 lift kits on the internet.
+
+Everytime you make a change to the website you record a list of changes in the file called llm.txt. This is a simple bullet point file where you write all the changes.
+
+when you add a new component to the website you look into the ./example_components folder and try to find a component that already exists there.
