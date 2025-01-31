@@ -179,3 +179,9 @@ asds
   * Changed Products link to https://papisgarage.com/collections/ford
   * Changed Gallery link to https://papisgarage.com/pages/build-gallery
   * Changed Contact link to https://papisgarage.com/pages/contact
+
+- Added Google Analytics tracking code to the website:
+  * Implemented gtag.js script in the head section
+  * Added Google Analytics ID: G-TEGN8PE2DZ
+  * Placed tracking code before other scripts for optimal loading
+  * Ensures proper tracking of website traffic and user behavior
