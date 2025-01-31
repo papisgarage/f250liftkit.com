@@ -91,3 +91,91 @@ asds
   - Added social media links (Instagram, TikTok, YouTube) for Papis Garage
   - Updated copyright notice to include "Powered by Papis Garage"
   - Updated copyright year to 2025 
+
+• Updated Products link in both desktop and mobile navigation to point to https://papisgarage.com/collections/ford
+• Updated Gallery link in both desktop and mobile navigation to point to https://papisgarage.com/pages/build-gallery
+• Updated Contact link in both desktop and mobile navigation to point to https://papisgarage.com/pages/contact
+• Updated Home link in both desktop and mobile navigation to point to https://papisgarage.com
+
+2024-03-20:
+- Updated Featured Products section to match exact product details from papisgarage.com:
+  * Updated Radius Arm Lift Kit:
+    - Verified correct product handle (radius-arm-lift-kit)
+    - Updated price range ($2,999.99 - $4,199.99)
+    - Added lift options (4.5" to 10")
+    - Added finish options (Mirrored Stainless/Machined Aluminum)
+    - Updated link to point directly to papisgarage.com/products/radius-arm-lift-kit
+  * Updated Fabricated Radius Arms:
+    - Verified correct product handle (ford-fabricated-radius-arm)
+    - Updated pricing ($1,599.99 Mirrored Stainless, $1,659.99 Machined Aluminum)
+    - Updated link to point directly to papisgarage.com/products/ford-fabricated-radius-arm
+  * Updated Traction Bar Kit:
+    - Verified correct product handle (super-duty-traction-bars)
+    - Updated pricing ($1,599.99 Mirrored Stainless, $1,699.99 Machined Aluminum)
+    - Added bed length options (Short Bed/Long Bed)
+    - Updated link to point directly to papisgarage.com/products/super-duty-traction-bars
+  * Updated all product images to use official Papis Garage photos
+  * Changed all product links from local paths to direct papisgarage.com URLs 
+
+- Updated website logo to use Papis Garage logo image from papisgarage.com in both desktop and mobile navigation
+- Replaced text-based logo with image-based logo for better branding consistency
+- Fixed logo URL to use direct Shopify CDN path for better reliability 
+
+- Updated Featured Builds section with specific product links:
+  * Added 2024 F250 8" Lift Kit Build with product image and link
+  * Added 2024 F350 Dually 12" Lift Kit Build with product image and link
+  * Added 2024 F250 18" Lift Kit Build with product image and link
+  * Updated images to use actual product photos from Shopify
+  * Added hover effects and improved styling
+  * Updated "View More Builds" link to point to Papis Garage build gallery 
+
+- Removed Latest Tutorials section from homepage:
+  * Removed entire tutorial section with three tutorial cards
+  * Removed tutorial images and related content
+  * Simplified page flow by connecting Featured Builds directly to Video Content section 
+
+- Removed "Tutorials" link from desktop navigation menu
+- Removed "Tutorials" link from mobile navigation menu
+- Removed "View Tutorials" link from hero section next to "Shop Now" button 
+
+- Removed "Premium F250 Suspension Solutions" button from hero section
+- Increased size of "Shop Now" button:
+  * Increased padding (px-6 py-3.5)
+  * Increased font size to text-base
+  * Made button more prominent in hero section 
+
+- Removed statistics section from "Why Choose Us":
+  * Removed Experience (15+ Years)
+  * Removed Products (100+)
+  * Removed Installations (5000+)
+  * Removed Support (24/7)
+  * Simplified section to focus on value proposition and customer testimonial 
+
+- Updated "Why Choose Us" section link:
+  * Changed text from "Learn more about our expertise" to "Learn more about our technology"
+  * Updated link to point to https://papisgarage.com/pages/technology 
+
+- Updated testimonial section with real Google review:
+  * Added verified Google review from Javier Perez
+  * Added reviewer's profile picture
+  * Added 5-star rating display
+  * Added "Verified Google Review" badge
+  * Updated review text with actual customer feedback
+  * Styled to match Google review appearance 
+
+- Updated testimonial section background:
+  * Changed background image to new F250 image from Papis Garage
+  * Updated image URL to use Shopify CDN path 
+
+- Moved "Why Choose Us" section below "Featured Videos" section for better content flow and user experience 
+
+• Updated hero section heading to read "Transform your Ford SuperDuty F-250" for more specific and accurate vehicle naming 
+
+• Updated hero section description to highlight both lift kits and leveling kits, changing the text to be more specific about product offerings 
+
+- Removed "Tutorials" link from footer Quick Links section to maintain consistency with site navigation
+
+- Updated footer Quick Links to match header navigation URLs:
+  * Changed Products link to https://papisgarage.com/collections/ford
+  * Changed Gallery link to https://papisgarage.com/pages/build-gallery
+  * Changed Contact link to https://papisgarage.com/pages/contact
